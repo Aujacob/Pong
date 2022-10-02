@@ -1,0 +1,6 @@
+Pong Game instructions:
+
+Use W to move the left paddle up and S to move the left paddle down.
+Use the up arrow key to move the right paddle up and use the down arrow key to 
+	move the right paddle down.
+
